@@ -12,6 +12,16 @@ A note taker where you can add notes, and then delete them.
   * [Test](#test)
   * [Contact](#contact)
 
+
+  ## Deployed Application
+  [Heroku](http://adam-note-taker.herokuapp.com/)
+
+  ## Screenshots
+
+  <img src="1.png">
+  <img src="2.png">
+  <img src="3.png">
+  
   # Installation
   To run the installation, use the following code:
   npm i
